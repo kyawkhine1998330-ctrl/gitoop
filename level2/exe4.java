@@ -56,5 +56,6 @@ public class exe4 {
         name.remove(1);
 
         name.get(1).makeSound();
+        System.out.print("Mg Mg");
     }
 }
